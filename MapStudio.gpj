@@ -1,0 +1,20 @@
+!572;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;
+SCU0PATH+=%V1\\bin;\012PATH+=%<JGRASP_PATHS>%;
+S+U0PATH+=%V1\\Bin;\012PATH+=%<JGRASP_PATHS>%;
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK (J2SE SDK or other), not just the JRE, installed.\\nThe J2SE SDK is available from java.sun.com.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012
+SOU0PATH+=%<JGRASP_PATHS>%;
+SPU0
+b#l01
+b#n01
+b#o01
+s#i0
+s#k0
+s#j0
+s#l0
+!1481;j
+a1	b0	c0	d%\011MapStudio.jar	e%\011	fMapStudio	g%\\011images%sabout.png\011%\\011images%sarrow.PNG\011%\\011images%scursor1.GIF\011%\\011images%scursor10.GIF\011%\\011images%scursor2.GIF\011%\\011images%scursor3.GIF\011%\\011images%scursor4.GIF\011%\\011images%scursor5.GIF\011%\\011images%scursor6.GIF\011%\\011images%scursor7.GIF\011%\\011images%scursor8.GIF\011%\\011images%scursor9.GIF\011%\\011images%senemy.PNG\011%\\011images%serase.png\011%\\011images%sflag.PNG\011%\\011images%sfloor1.PNG\011%\\011images%sfloor2.PNG\011%\\011images%sfloor3.PNG\011%\\011images%smobile.PNG\011%\\011images%snew.png\011%\\011images%sopen.png\011%\\011images%splayer.PNG\011%\\011images%ssave.png\011%\\011images%ssaveas.png\011%\\011images%ssplash.png\011%\\011images%sstatic.PNG\011%\\011images%sundoflag.PNG\011%\\011images%sundomobile.PNG\011%\\011images%sundostatic.PNG\011%\\011krux2%sblueflag.PNG\011%\\011krux2%senemy.png\011%\\011krux2%sfloor.GIF\011%\\011krux2%sgrayflag.PNG\011%\\011krux2%shcrate.png\011%\\011krux2%sK_Border.GIF\011%\\011krux2%sK_Border1.GIF\011%\\011krux2%slcrate.png\011%\\011krux2%soneup.png\011%\\011krux2%splayer.png\011%\\011krux2%sredflag.PNG\011%\\011krux2%sthirdguy.png\011%\\011krux2%swcrate.png\011%\\011krux2%sweapon1.png\011%\\011krux2%sweapon2.png\011%\\011krux2%sweapon3.png\011%\\011krux2%sweapon4.png\011%\\011krux2%sweapon5.png\011%\\011krux2%sweapon6.png\011%\\011krux2%sweapon7.png\011%\\011krux%sicobig.PNG\011%\\011krux%sicosml.PNG	h1	i0	j0!20;g
+%\011MapStudio.java
+!17;f
+%	MapStudio.java
